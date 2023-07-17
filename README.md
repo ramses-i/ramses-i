@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ramsés Alarcon</h1>
-<h3 align="center">A passionate Android developer from Spain</h3>
+<h1 align="center">Hi 👋, I'm Ramses A.</h1>
+<h3 align="center">A passionate Mobile Developer from Spain</h3>
 
 <p align="left">
   <img
@@ -8,7 +8,7 @@
   />
 </p>
 
-- 🔭 I’m currently working on **Tourism Manteinance Management System** 
+- 🔭 I’m currently working on **My Expense Watcher** 
 - 🌱 I’mcurrently learning **Web development** 
 - 💬 Ask me about **native Android development with Kotlin** 
 - 🤔 I’m looking for help with **Unit Testing and UITesting** 
